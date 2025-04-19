@@ -1,11 +1,13 @@
 
-DevOps Task 7: Monitoring System Resources with Netdata on Windows
+DevOps Task 7: 
+Monitoring System Resources with Netdata on Windows
 Keep an eye on system performance using Netdata inside a Docker container on Windows. With real-time metrics such as CPU usage, memory consumption, disk I/O, and container activity, this setup offers a powerful way to visualize system health.
+
 Tools Required
 - Netdata – A free, open-source monitoring tool
 - Docker Desktop – Runs Netdata in a containerized environment
 
-Installation & Setup
+Installation & Setup-
 1. Install Docker Desktop
 - Download Docker Desktop from Docker's official site.
 - Follow installation steps and ensure Docker is running.
